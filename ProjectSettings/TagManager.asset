@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - HideInSceneView
   - 
   - 
   - 
@@ -41,4 +41,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3439220501
+    locked: 0
+  - name: Walls
+    uniqueID: 394836899
     locked: 0
