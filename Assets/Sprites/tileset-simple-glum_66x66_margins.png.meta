@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: dab80562290979742812391cc90a3dc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7547742593060396289
+    second: tileset-simple-glum_66x66_margins_0
+  - first:
+      213: -3422929772633604314
+    second: tileset-simple-glum_66x66_margins_1
+  - first:
+      213: 6464194342360675499
+    second: tileset-simple-glum_66x66_margins_2
+  - first:
+      213: -2845101175265803061
+    second: tileset-simple-glum_66x66_margins_3
+  - first:
+      213: 6376988347297723934
+    second: tileset-simple-glum_66x66_margins_4
+  - first:
+      213: -8355071062348165769
+    second: tileset-simple-glum_66x66_margins_5
+  - first:
+      213: 458468452407405603
+    second: tileset-simple-glum_66x66_margins_6
+  - first:
+      213: -5996625615219361838
+    second: tileset-simple-glum_66x66_margins_7
+  - first:
+      213: -9155142606436946577
+    second: tileset-simple-glum_66x66_margins_8
+  - first:
+      213: -6363953387655699565
+    second: tileset-simple-glum_66x66_margins_9
+  - first:
+      213: 2249014787465242088
+    second: tileset-simple-glum_66x66_margins_10
+  - first:
+      213: -4883971851306176162
+    second: tileset-simple-glum_66x66_margins_11
+  - first:
+      213: -1055512853878770410
+    second: tileset-simple-glum_66x66_margins_12
+  - first:
+      213: -5046343112017403635
+    second: tileset-simple-glum_66x66_margins_13
+  - first:
+      213: -6333514747511596175
+    second: tileset-simple-glum_66x66_margins_14
+  - first:
+      213: 8063897122841374516
+    second: tileset-simple-glum_66x66_margins_15
+  - first:
+      213: 3530630779057957578
+    second: tileset-simple-glum_66x66_margins_16
+  - first:
+      213: -7731957214481449198
+    second: tileset-simple-glum_66x66_margins_17
+  - first:
+      213: -1696337653330193014
+    second: tileset-simple-glum_66x66_margins_18
+  - first:
+      213: 95110257486183437
+    second: tileset-simple-glum_66x66_margins_19
+  - first:
+      213: 671121640656502658
+    second: tileset-simple-glum_66x66_margins_20
+  - first:
+      213: 5526322750987387521
+    second: tileset-simple-glum_66x66_margins_21
+  - first:
+      213: -7391909388406907816
+    second: tileset-simple-glum_66x66_margins_22
+  - first:
+      213: 1669969086450862589
+    second: tileset-simple-glum_66x66_margins_23
+  - first:
+      213: 1499791578579857274
+    second: tileset-simple-glum_66x66_margins_24
+  - first:
+      213: 2046769341547650857
+    second: tileset-simple-glum_66x66_margins_25
+  - first:
+      213: -836237681194517328
+    second: tileset-simple-glum_66x66_margins_26
+  - first:
+      213: -2400502611326121528
+    second: tileset-simple-glum_66x66_margins_27
+  - first:
+      213: -8672499594122401398
+    second: tileset-simple-glum_66x66_margins_28
+  - first:
+      213: -6987577370072613264
+    second: tileset-simple-glum_66x66_margins_29
+  - first:
+      213: 2463130936866928554
+    second: tileset-simple-glum_66x66_margins_30
+  - first:
+      213: -4584589150643820454
+    second: tileset-simple-glum_66x66_margins_31
+  - first:
+      213: 2150669923012387135
+    second: tileset-simple-glum_66x66_margins_32
+  - first:
+      213: -7444679197806826609
+    second: tileset-simple-glum_66x66_margins_33
+  - first:
+      213: 3029197873157497360
+    second: tileset-simple-glum_66x66_margins_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d537316e7feb860800000000000000
+      internalID: 7547742593060396289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fb01bd18f4f70d0800000000000000
+      internalID: -3422929772633604314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba47f7f618e65b950800000000000000
+      internalID: 6464194342360675499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44c3a1e8b2488d0800000000000000
+      internalID: -2845101175265803061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e167c797d1d9f7850800000000000000
+      internalID: 6376988347297723934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8797c223dc0c80800000000000000
+      internalID: -8355071062348165769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c677ed0aecc5600800000000000000
+      internalID: 458468452407405603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d777d146c4b7cca0800000000000000
+      internalID: -5996625615219361838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d28433e4662f080800000000000000
+      internalID: -9155142606436946577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 381
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39363a19c12bea7a0800000000000000
+      internalID: -6363953387655699565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5677d880b163f10800000000000000
+      internalID: 2249014787465242088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5173e54a75a83cb0800000000000000
+      internalID: -4883971851306176162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61572b8d6a01a51f0800000000000000
+      internalID: -1055512853878770410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a6712da9c7f9b0800000000000000
+      internalID: -5046343112017403635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 315
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9fdeb4e5da18a0800000000000000
+      internalID: -6333514747511596175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f214875b7b8ef60800000000000000
+      internalID: 8063897122841374516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6fcaccf15ff030800000000000000
+      internalID: 3530630779057957578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f705c01e192b490800000000000000
+      internalID: -7731957214481449198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85522254e56578e0800000000000000
+      internalID: -1696337653330193014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 249
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb5f77646e15100800000000000000
+      internalID: 95110257486183437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7860939d405900800000000000000
+      internalID: 671121640656502658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18243c6234171bc40800000000000000
+      internalID: 5526322750987387521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c91244399aa6990800000000000000
+      internalID: -7391909388406907816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df989c7490cec2710800000000000000
+      internalID: 1669969086450862589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 183
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fef569e7450d410800000000000000
+      internalID: 1499791578579857274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9b143fd5976c10800000000000000
+      internalID: 2046769341547650857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcba9072461564f0800000000000000
+      internalID: -836237681194517328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94289e793bfaed0800000000000000
+      internalID: -2400502611326121528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896d99619715a780800000000000000
+      internalID: -8672499594122401398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 117
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e73485763270f90800000000000000
+      internalID: -6987577370072613264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77a3f698cce2220800000000000000
+      internalID: 2463130936866928554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e3ca25744060c0800000000000000
+      internalID: -4584589150643820454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31254676e6b8dd10800000000000000
+      internalID: 2150669923012387135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bebf396bf2fa890800000000000000
+      internalID: -7444679197806826609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-simple-glum_66x66_margins_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 51
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ebef8a6fd90a20800000000000000
+      internalID: 3029197873157497360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
